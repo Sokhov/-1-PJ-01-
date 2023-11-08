@@ -12,12 +12,12 @@
 
 ### Краткая информация о данных
 В проекте используется выборка с сайта компании Head Hunter или аналогичная ей. Можно скачать используемый массив
-  <a href="https://drive.google.com/u/0/uc?id=1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn&export=download">по данной ссылке</a>
+  <a href="https://drive.google.com/file/d/1GwGqm03_Vw1-WuDOuYqYjJn0zh3SBXSU/view?usp=sharing">по данной ссылке</a>
 </p>
 
 <p>
   Так же используеется выгрузка, курсов валют, которые встречаются в данных за период с 29.12.2017 по 05.12.2019:
-  <a href="https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/ExchangeRates.zip">скачать здесь</a>
+  <a href="https://drive.google.com/file/d/1sovRlrYNL7Z5HvBlAjnTgHkH3QKzUTJp/view?usp=drive_link">скачать здесь</a>
 </p>
   
 
